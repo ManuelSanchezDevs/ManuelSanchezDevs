@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manuel-sanchez-b0b1102b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manuel-sanchez-b0b1102b1/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/manuel-sanchez-b0b1102b1/overlay/about-this-profile/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3b%2bfyaqorhq3e%2fqq8wnppmmw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manuel-sanchez-b0b1102b1/overlay/about-this-profile/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3b%2bfyaqorhq3e%2fqq8wnppmmw%3d%3d" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
